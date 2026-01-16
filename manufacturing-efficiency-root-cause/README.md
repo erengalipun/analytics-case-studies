@@ -36,4 +36,4 @@ is the most influential factor affecting production performance.
 - DBeaver
 
 ## Related Article
-📖 Medium: (to be added)
+📖 Medium: [Root Cause Analysis of Manufacturing Inefficiency Using SQL](https://medium.com/@erengalipun/root-cause-analysis-of-manufacturing-inefficiency-using-sql-0b45b9c4577d)
